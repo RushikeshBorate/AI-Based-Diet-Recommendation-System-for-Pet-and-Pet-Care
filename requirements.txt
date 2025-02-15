@@ -1,3 +1,6 @@
 Required Python Packeges:
 
-1. 
+1. mysql-connector-python
+2. pandas - 2.2.3
+3. scikit-learn - 1.6.1
+4. tkinter - 
